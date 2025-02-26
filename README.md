@@ -80,7 +80,7 @@ Both projects were implemented in **C#** using the **.NET SDK** and tested on a 
    - Clone the repository:
      ```bash
      git clone https://github.com/MKhatib64/Project1.git
-     cd multi-threaded-banking-system
+     cd Project1
      ```
    - Follow the instructions above to run each program.
 
